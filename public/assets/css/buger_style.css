@@ -2,7 +2,7 @@
     background-image: url("/assets/img/burger.png");
     /* background-repeat: no-repeat; */
     background-position: right;
-    background-color: #270303;
+    background-color: #e63010;
     color: #ffffff;
     margin-top: 3%;
     padding: 50px;
@@ -10,7 +10,7 @@
 
 .jumbotron {
     text-align: center;
-    background-color: #270303;
+    background-color: #d61212;
     color: #ffffff;
     margin-top: 3%;
 
@@ -21,14 +21,14 @@
 }
 
 #leftside {
-    background-color: #052b0d;
+    background-color: #1180ca;
     color: white;
     text-align: center;
     font-size: 1.3em;
 }
 
 #rightside {
-    background-color: #220f75;
+    background-color: #3409d3;
     color: white;
     text-align: center;
     font-size: 1.3em;
